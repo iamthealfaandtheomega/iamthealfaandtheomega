@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"If you want to understand me, read the silence, not the storm."</i></p>
+<p align="center"><i>"The compass was invented before the clock, because direction is more important than time. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
