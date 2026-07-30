@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"Forgive others, not because they deserve forgiveness, but because you deserve peace. — Unknown"</i></p>
+<p align="center"><i>"Don't let your loneliness make you reconnect with toxic people. You shouldn't drink poison just because you're thirsty. — Jared Leonard"</i></p>
 <!-- QUOTE_END -->
 
 </div>
