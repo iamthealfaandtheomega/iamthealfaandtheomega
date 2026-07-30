@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"Don't let your loneliness make you reconnect with toxic people. You shouldn't drink poison just because you're thirsty. — Jared Leonard"</i></p>
+<p align="center"><i>"Don't trust anyone, remember the devil was once an Angel. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
