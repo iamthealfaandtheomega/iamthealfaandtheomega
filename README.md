@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"The insult only works, if you accept it. — Diogenes"</i></p>
+<p align="center"><i>"The villain will always be a villain, if the hero tells the story. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
