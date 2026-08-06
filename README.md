@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"You won't find the same person twice, not even in the same person. — Unknown"</i></p>
+<p align="center"><i>"The compass was invented before the clock, because direction is more important than time. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
