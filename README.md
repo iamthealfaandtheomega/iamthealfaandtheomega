@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"don't create future if you didn't finish the past. — MG"</i></p>
+<p align="center"><i>"Too much attention makes a monkey think he's a lion. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
