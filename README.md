@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"Be a good person, but don't waste all your energy trying to prove it. — Jared Leonard"</i></p>
+<p align="center"><i>"If no one believes in you, be the first. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
