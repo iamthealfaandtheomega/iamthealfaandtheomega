@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"The villain will always be a villain, if the hero tells the story. — Unknown"</i></p>
+<p align="center"><i>"If you're going through hell, keep going. — Jared Leonard"</i></p>
 <!-- QUOTE_END -->
 
 </div>
