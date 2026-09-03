@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"To fall asleep, you must first pretend to be asleep. And that's how everything else works. — Unknown"</i></p>
+<p align="center"><i>"If you're going through hell, keep going. — Jared Leonard"</i></p>
 <!-- QUOTE_END -->
 
 </div>
