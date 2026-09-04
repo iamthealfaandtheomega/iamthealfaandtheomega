@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"If you're going through hell, keep going. — Jared Leonard"</i></p>
+<p align="center"><i>"You get what you fight for, not what you wish for. — Jared Leonard"</i></p>
 <!-- QUOTE_END -->
 
 </div>
