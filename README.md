@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"It's not about the house you buy, it's about the home you make. — Jared Leonard"</i></p>
+<p align="center"><i>"Don't let your loneliness make you reconnect with toxic people. You shouldn't drink poison just because you're thirsty. — Jared Leonard"</i></p>
 <!-- QUOTE_END -->
 
 </div>
