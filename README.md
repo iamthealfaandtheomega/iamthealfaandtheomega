@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"Butterflies can't see their own wings, but others admire their beauty. — Jared Leonard"</i></p>
+<p align="center"><i>"Too much attention makes a monkey think he's a lion. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
